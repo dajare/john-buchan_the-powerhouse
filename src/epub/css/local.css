@@ -35,11 +35,6 @@ footer{
 }
 /* end dedication */
 
-/* Prologue */
-[epub|type~="contributors"]{
-	font-style: italic;
-}
-
 /* chapter-2 */
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
